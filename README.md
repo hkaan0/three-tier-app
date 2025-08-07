@@ -1,1 +1,1 @@
-Test: GitHub Actions pipeline çalışıyor mu?
+Test2 : GitHub Actions pipeline çalışıyor mu?
