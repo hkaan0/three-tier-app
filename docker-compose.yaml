@@ -3,7 +3,7 @@ services:
   frontend:
     image: 060623761618.dkr.ecr.eu-central-1.amazonaws.com/task/three-tier-frontend:latest
     ports:
-      - "80:80"
+      - "3000:3000"
     depends_on:
       - backend
 
